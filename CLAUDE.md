@@ -27,7 +27,7 @@ Public site for Art of Chaos, served by GitHub Pages from `main` at https://arto
 
 - The company name is **"Art of Chaos"**, never "The Art Of Chaos". All-caps designs use "ART OF CHAOS".
 - Do not rename URLs, handles, domains, folder paths or identifiers (e.g. `theartofchaosllc`, `theartofchaos.echo`).
-- The 2026-11-14 name sweep and the matching sitemap/robots URL fix are on branch `draft/site-sync-2026-11-17`, awaiting the owner's review (see `NEXT.md`). Don't redo them on `main`.
+- The 2026-11-14 name sweep and the sitemap/robots URL fix were reviewed and published on 2026-11-17.
 
 ## Pipeline: draft → review → approval → publish
 

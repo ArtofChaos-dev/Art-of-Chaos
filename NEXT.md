@@ -2,15 +2,14 @@
 
 Read this first in any session, cloud or desktop. Update it before you stop: tick what you finished, add what you started, and keep "Next step" to one line.
 
-_Last updated 2026-11-17 by the desktop CLI. — Claude, Autonomic Chief_
+_Last updated 2026-11-17 (after publish) by the desktop CLI. — Claude, Autonomic Chief_
 
 ## Next step
 
-**Michael:** review branch `draft/site-sync-2026-11-17` (compare it to `main` on GitHub). If it's good, merge it to `main` to publish. The changes are the founders' own name and Cypress decisions, so no new copy needs Elizabeth's approval.
+**Michael, at a desk:** verify the site in Google Search Console and submit `sitemap.xml` (task below). No site work is waiting on review.
 
 ## Open tasks
 
-- [ ] **Review + publish the site sync** (`draft/site-sync-2026-11-17`): newest `site/` pages, "Art of Chaos" name, Aspen → Cypress, sitemap/robots on the `artofchaos-dev` URLs, and this file plus `CLAUDE.md`. Gate: Michael's review. It replaces `claude/add-claude-md` (already merged into it), which can be deleted afterward.
 - [ ] **Search Console:** verify `https://artofchaos-dev.github.io/Art-of-Chaos/` (URL-prefix property), then submit `sitemap.xml`. Owner, at a desk.
 - [ ] **Own domain:** point the company domain at Pages once the registrar login is recovered; then `robots.txt` starts working. Owner first, then development.
 - [ ] **Brand refresh:** when the final brand files land, rebuild the site to match (development → review). Nothing to do here until then.
@@ -19,6 +18,6 @@ _Last updated 2026-11-17 by the desktop CLI. — Claude, Autonomic Chief_
 
 ## Done recently
 
-- 2026-11-17: site sync + name/sitemap fix prepared as a draft branch; `CLAUDE.md` merged (cloud draft + CLI notes); this file added.
+- 2026-11-17: **published** the site sync (`main` @ `a03ca88`, Michael reviewed the rename): "Art of Chaos" name, Aspen → Cypress, sitemap/robots on `artofchaos-dev` URLs, `CLAUDE.md` + this file. Checked live: 4 pages + sitemap + robots 200, old name gone. Branches `claude/add-claude-md` and `draft/site-sync-2026-11-17` are merged and can be deleted.
 - 2026-11-10: repo renamed to `Art-of-Chaos` under `ArtofChaos-dev`; old Pages URL is now a 404.
 - 2026-11-05: "Get it" button → Payhip; Echo privacy page added.
